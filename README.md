@@ -32,7 +32,7 @@ Um script **Bash** simples e sem dependências externas que permite criar, lista
 1. **Clone** ou copie este repositório:
 
 ```bash
-git clone https://github.com/sarafernandesdev/todo.sh.git
+git clone https://github.com/sarafernandxs/todo.sh.git
 cd todo.sh
 ```
 
